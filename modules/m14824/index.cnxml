@@ -1,0 +1,227 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Building Your Lab</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>29d767d3-62f2-41ce-a897-14718e68a17d</md:uuid>
+</metadata>
+  <content>
+<para id="intro">
+<cite target-id="ppt"><cite-title>Workshop Authors: James McNew (BCB), Qilin Li (CEVE), Corey Wilson (CalTech), Shelly Harvey (Math)</cite-title></cite>
+</para>
+
+<section id="slide1">
+<title>Slide 1:  Building Your Lab</title>
+ <list id="list1" list-type="bulleted">
+	<item>Space</item>
+	<item>Equipment</item>
+	<item>Personnel</item>
+ </list>
+</section>
+<section id="slide2">
+<title>Slide 2:  Physical Space</title>
+ <list id="list2" list-type="bulleted">
+	<item>Moving into existing space</item>
+	<item>Lab remodels</item>
+	<item>New building space</item>
+ </list>
+</section>
+<section id="slide3">
+<title>Slide 3:  Existing space</title>
+ <list id="list3" list-type="bulleted">
+	<item>Is the space adequate for your needs?
+ <list id="list3a" list-type="bulleted">
+	<item>Proximity to colleagues </item>
+	<item>Access to Dept/University equipment</item>
+	<item>Proper Air/Vacuum/Water for equipment
+        </item>
+	<item>Hoods (chemical and tissue culture)</item>
+	<item>Air handling and vibration</item>
+ </list>
+        </item>
+	<item>Does it have desk space for students and postdocs?</item>
+	<item>Is office space separate?</item>
+ </list>
+</section>
+<section id="slide4">
+<title>Slide 4:  Build or Remodel</title>
+ <list id="list4" list-type="bulleted">
+	<item>Is the space adequate for your needs?</item>
+	<item>Start early </item>
+	<item>Do the research</item>
+	<item>Set a bottom line
+        </item>
+	<item>Be actively involved in the process</item>
+ </list>
+</section>
+<section id="slide5">
+<title>Slide 5:  Start Early</title>
+ <list id="list5" list-type="bulleted">
+	<item>It usually takes 6-12 months to build or remodel a lab
+        </item>
+	<item>Specify a desired date of completion during the negotiation
+        </item>
+	<item>Contact equipment vendors (for specs)</item>
+	<item>Consider options for teaching or grant writing efforts until the space is complete
+        </item>
+	<item>Identify temporary space for lab work</item>
+ </list>
+</section>
+<section id="slide6">
+<title>Slide 6:  Do the Research </title>
+ <list id="list6" list-type="bulleted">
+	<item>Visit state-of-the-art labs
+        </item>
+	<item>Site visit
+          <list id="list6a" list-type="bulleted">
+              <item>Meet your project manager
+              </item>
+              <item>Location: avoid location-specific problems that affect your research, e.g., vibration, freight elevator availability, etc.
+              </item>
+              <item>Infrastructure: air conditioning, ventilation, DI water system, gas lines, etc.
+              </item>
+              <item>Ask people who know the lab
+              </item>
+          </list>
+        </item>
+	<item>Collect information on equipment
+          <list id="list6b" list-type="bulleted">
+              <item>power requirement
+              </item>
+              <item>heat generation
+              </item>
+              <item>waste generation
+              </item>
+              <item>Other needs for equipment: gases, water, etc.
+              </item>
+          </list>
+        </item>
+	<item>Leave space for future expansion
+          <list id="list6c" list-type="bulleted">
+              <item>Predict future equipment needs
+              </item>
+          </list>
+        </item>
+ </list>
+</section>
+<section id="slide7">
+<title>Slide 7:  Set a Bottom Line</title>
+ <list id="list7" list-type="bulleted">
+	<item>Make a list of “must” and “must not” and be firm
+        </item>
+	<item>Do not expect future improvement
+        </item>
+	<item>Take into consideration future research needs</item>
+	<item>Consider options for teaching or grant writing efforts until the space is complete
+        </item>
+	<item>Identify temporary space for lab work</item>
+ </list>
+</section>
+<section id="slide8">
+<title>Slide 8:  Be Actively Involved </title>
+ <list id="list8" list-type="bulleted">
+	<item>Why
+          <list id="list8a" list-type="bulleted">
+              <item>You know your needs the best.
+              </item>
+              <item>Good communication avoids mistakes.
+              </item>
+          </list>
+        </item>
+	<item>What
+          <list id="list8b" list-type="bulleted">
+              <item>Project schedule and progress
+              </item>
+              <item>Specific information on equipment
+              </item>
+              <item>Special needs
+              </item>
+          </list>
+        </item>
+	<item>How
+          <list id="list8c" list-type="bulleted">
+              <item>Follow the progress
+              </item>
+              <item>Communicate with the contractors
+              </item>
+          </list>
+        </item>
+ </list>
+</section> 
+<section id="slide9">
+<title>Slide 9:  Equipment and Supplies </title>
+ <list id="list9" list-type="bulleted">
+	<item>Equipment purchase 
+          <list id="list9a" list-type="bulleted">
+              <item>Be aware of available discount, e.g., “New lab set up” programs at large vendors like Fisher and VWR
+              </item>
+              <item>Negotiate with many vendors
+              </item>
+              <item>Usually 1-3 months of lead time for major equipment</item>
+          </list>
+        </item>
+
+	<item>Supplies
+          <list id="list9b" list-type="bulleted">
+              <item>Package as much as you can with each major vendor
+              </item>
+              <item>Negotiate with many vendors
+              </item>
+              <item>Consider larger quantities of items you know you will need
+                  <list id="list9c" list-type="bulleted">
+                     <item>This is the biggest discount you will ever get on things you buy
+                     </item>
+                     <item>Consider storage of large quantities
+                     </item>
+                  </list>
+              </item>
+          </list>
+        </item>
+ </list>
+</section>
+<section id="slide10">
+<title>Slide 10:  Populating your lab</title>
+ <list id="list10" list-type="bulleted">
+       <item>Technical Staff
+       </item>
+	<item>Graduate students vs. postdocs
+          <list id="list10a" list-type="bulleted">
+              <item>How available are students?</item>
+              <item>How difficult is it to recruit post-docs?</item>
+              <item>Are technicians the best use of limited resources?</item>
+              <item>What Dept/University funding mechanisms are available for students or post-docs?</item>
+          </list>
+        </item>	
+ </list>
+</section>
+<section id="slide11">
+<title>Slide 11:  Lab Personnel</title>
+ <list id="list11" list-type="bulleted">
+       <item>Personnel Management
+       </item>
+       <item>Establishing a “lab culture” is very important
+       </item>
+	<item>Be proactive in addressing potential personnel conflicts
+          <list id="list11a" list-type="bulleted">
+              <item>No one wants to work in a caustic or poisonous lab environment</item>              
+          </list>
+        </item>
+       <item>Lead by example
+       </item>	
+ </list>
+</section>
+  </content>
+
+   <bib:file>
+   <bib:entry id="ppt">
+      <bib:misc>
+	<bib:author>McNew, J; Li, Q; Wilson, C; and Harvey, S
+        </bib:author>
+ 	<bib:title>Building Your Lab:  NSF Advance Workshop at Rice University
+        </bib:title>
+        <bib:month>October
+        </bib:month>
+        <bib:year>2006
+        </bib:year>
+        <bib:note> http://www.advance.rice.edu/negotiatingtheidealfacultyposition/agenda.html</bib:note>
+      </bib:misc>
+   </bib:entry> 
+   </bib:file> 
+</document>

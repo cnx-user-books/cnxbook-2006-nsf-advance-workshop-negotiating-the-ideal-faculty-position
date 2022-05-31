@@ -1,0 +1,737 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>How to Obtain Funding</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>2a0ea38f-73ee-4637-a636-d271b597f792</md:uuid>
+</metadata>
+  <content>
+<para id="intro">
+<cite target-id="ppt"><cite-title>Workshop Authors: Semahat Demir, Lydia Kavraki, Rob Raphael and Joan Strassmann </cite-title></cite>
+</para>
+<section id="introductory_slide">
+			<title>Introduction</title>
+ 
+<para id="lk1">Lydia Kavraki, Ph.D. </para>
+<para id="lk2">Noah Harding Professor of Computer Science</para>
+<para id="lk3">Rice University</para>
+
+	
+</section>
+<section id="slide1">
+			<title>Slide 1:  Funding is Important</title>
+ <list id="list1" list-type="bulleted">
+	<item>You need to be prepared to address the issue in the long run</item>
+	<item>You need more than a great idea</item>
+	<item>You need to understand the logistics</item>
+ </list>
+</section>
+<section id="slide2">
+			<title>Slide 2:  Funding - Logistics</title>
+ <list id="list2" list-type="bulleted">
+	<item>Identify a funding agency and learn everything you can about this agency (the web and your colleagues are good sources)
+</item>
+	<item>Understand what is the mechanism for submitting a proposal from your institution (“Office of Sponsored Research”)</item>
+	<item>Develop a time frame for writing and proofreading the proposal</item>
+ </list>
+</section>
+<section id="slide3">
+			<title>Slide 3: Funding Opportunities </title>
+<para id="kinney_cite">
+     <cite target-id="kinney"><cite-title>Slide modified from Kinney, Neptune and Wilson</cite-title></cite>
+</para>
+ <list id="list3" list-type="bulleted">
+	
+        <item><link url="http://www.nih.gov">NIH</link>
+          <list id="NIH_opps" list-type="bulleted">
+            <item><link url="http://crisp.cit.nih.gov/">
+              CRISP – Database of funded projects</link></item>
+            <item>
+              <link url="http://www.csr.nih.gov/guidelines/r01.htm">
+                NIH Review Criteria</link>  </item>
+            <item>
+              <link url="http://nextwave.sciencemag.org/cgi/content/full/2000/10/12/1">
+              Article: How to get NIH funding </link>   </item>
+          </list>
+        </item>
+	<item><link url="http://www.nsf.gov">NSF</link>
+         <list id="NSF_opps" list-type="bulleted">
+            <item><link url="http://www.nsf.gov/home/crssprgm/career/start.htm">      CAREER program</link></item>
+            <item><link url="http://www.nsf.gov/home/eng/"> Engineering Division       </link></item>
+            <item>
+               <link url="http://nextwave.sciencemag.org/cgi/content/full/2000/07/06/8">
+               Article: NSF grant writing</link></item>
+          </list>
+        </item>
+	<item>Private Foundations
+         <list id="private_opps" list-type="bulleted">
+            <item>Coulter, March of Dimes, and many others</item>
+          </list>
+        </item>
+	<item>Office of Naval Research</item>
+	<item>
+          <link url="http://www.ed.gov/fund/grant/apply/nidrr/index.html">NIDRR - The National Institute on Disability and Rehabilitation Research </link>
+        </item>
+	<item>Miscellaneous Funding Links
+         <list id="funding_links" list-type="bulleted">
+            <item> <link url="http://www.grantsnet.org/">GrantsNet</link></item>
+            <item>
+              <link url="http://nextwave.sciencemag.org/"> Science magazine - search for articles  </link></item>
+            <item>Grant writing
+              <list id="grant_writing" list-type="bulleted">
+                <item> <link url="http://www.research.umich.edu/proposals/PWG/pwgcontents.html">
+University of Michigan's Proposal Writer's Guide</link> <cite target-id="PWG"><cite-title>Author, Don Thackrey</cite-title></cite></item>   
+                <item>Google search for articles</item>   
+                <item>Book – Research Proposals: A Guide to Success (Ogden and Goldberg)</item>           
+              </list>
+            </item>
+          </list>
+        </item>
+	<item>Industry
+         <list id="industry" list-type="bulleted">
+            <item>SBIR mechanism (NSF, NIH)</item>
+            <item>Direct funding from companies</item>
+          </list>
+        </item>
+ </list>
+</section>
+<section id="slide4">
+			<title>Slide 4:  Your University </title>
+ <list id="list4" list-type="bulleted">
+	<item>A proposal needs a budget and appropriate signatures</item>
+	<item>Lead time is typically required</item>
+	<item>Your colleagues can help you understand all that</item>
+ </list>
+</section>
+<section id="slide5">
+			<title>Slide 5:  Time Frame </title>
+ <list id="list5" list-type="bulleted">
+	<item>Allow time for many drafts</item>
+	<item>Allow time for feedback</item>
+	<item>Allow extra time</item>
+ </list>
+</section>
+<section id="slide6">
+			<title>Slide 6:  Funding is Important </title>
+ <list id="list6" list-type="bulleted">
+	<item>You need to be prepared to address the issue in the long run
+           <list id="list6sub1" list-type="bulleted">
+              <item>
+              How will you prepare yourself for the next grant?
+              </item>
+           </list>
+        </item>
+	<item>You need more than a great idea
+           <list id="list6sub2" list-type="bulleted">
+              <item>
+              You need to be able to communicate and support your idea
+              </item>
+           </list>
+        </item>
+	<item>You need to understand the logistics</item>
+ </list>
+</section>
+<section id="slide7">
+			<title>Slide 7:  Do not Let Funding Consume You </title>
+ <list id="list7" list-type="bulleted">
+	<item>Your “growth” as a researcher is essential </item>
+	<item>Publish, collaborate, discuss your ideas, read, be brave and be prepared to fail</item>
+ </list>
+</section>
+
+<section id="slide8">
+			<title>Slide 8:  NSF, Funding Opportunities and Successful Proposal Writing</title>
+ 
+<para id="NSF1">Semahat Demir, Ph.D. </para>
+<para id="NSF2">Program Director</para>
+<para id="NSF3">Biomedical Engineering Program</para>
+<para id="NSF4">National Science Foundation </para>
+	
+</section>
+<section id="slide9">
+			<title>Slide 9:  Outline </title>
+ <list id="list9" list-type="bulleted">
+	<item>Overview of NSF </item>
+	<item>Different NSF Funding Opportunities</item>
+	<item>NSF’s Priority Areas (NSF-Wide Investment Areas) </item>
+	<item>NSF Merit Review Criteria </item>
+	<item>Tips for Successful Proposal Writing </item>
+ </list>
+</section>
+<section id="slide10">
+			<title>Slide 10:  NSF Vision </title>
+ <list id="list10" list-type="bulleted">
+	<item>NSF:  Where Discovery Begins 
+           <list id="list10sub1" list-type="bulleted">
+            <item>Enabling the Nation’s future through discovery, learning and innovation. </item></list>
+        </item>
+ </list>
+</section>
+<section id="slide11">
+			<title>Slide 11:  NSF Overview </title>
+ <list id="list11" list-type="bulleted">
+	<item>Founded in 1950
+        </item>
+	<item>An independent federal agency 
+        </item>
+	<item>Responsible for advancing science and engineering
+        </item>
+        <item>Makes merit-based grants and cooperative agreements
+           <list id="list11sub1" list-type="bulleted">
+             <item>Individual researchers and groups </item>
+             <item>Colleges, universities </item>
+             <item>Other institutions: public, private, state, local and federal        
+             </item>
+           </list>
+        </item>
+	<item>Does not operate laboratories
+        </item>
+	<item>Peer-review and evaluation of 42,000 proposals (FY05) submitted by science and engineering research and education communities
+           <list id="list11sub2" list-type="bulleted">
+             <item>9,800 new awards  (success rates are different for different programs) </item>
+             <item>246,000 proposal reviews done</item>
+           </list>
+        </item>
+ </list>
+</section>
+<section id="slide12">
+			<title>Slide 12: NSF Support </title>
+ <table id="NSFsupport" summary="">
+  <title>NSF Support as a Percent of Total US Federal Support for Academic Basic Research in Selected Fields</title>
+<tgroup cols="2" colsep="1" rowsep="1">
+   <tbody>
+
+      <row>
+        <entry align="center">Physical Sciences: </entry>
+        <entry align="center">40%</entry>
+      </row>
+
+      <row>
+        <entry align="center">Engineering: </entry>
+        <entry align="center">46%</entry>
+      </row>
+
+      <row>
+        <entry align="center">Social Sciences: </entry>
+        <entry align="center">52%</entry>
+      </row>
+
+      <row>
+        <entry align="center">Environmental Sciences: </entry>
+        <entry align="center">54%</entry>
+      </row>
+
+      <row>
+        <entry align="center">Biology (excluding NIH): </entry>
+        <entry align="center">66%</entry>
+      </row>
+
+      <row>
+        <entry align="center">Mathematical Sciences:  </entry>
+        <entry align="center">77%</entry>
+      </row>
+
+      <row>
+        <entry align="center">Computer Sciences: </entry>
+        <entry align="center">86%</entry>
+      </row>
+
+   </tbody>
+</tgroup>
+ </table>
+</section>
+<section id="slide13">
+	<title>Slide 13:  Funding Opportunities at NSF </title>
+ <list id="list13" list-type="bulleted">
+	<item>Individual Programs
+           <list id="list13sub1" list-type="bulleted">
+             <item>Research, education, center programs</item>
+           </list>
+        </item>
+	<item>Priority Areas (Investment Areas for FY)
+           <list id="list13sub2" list-type="bulleted">
+             <item>Cross-Programs and Cross-Directorates</item>
+           </list>
+        </item>
+	<item>Cross Disciplinary Areas
+           <list id="list13sub3" list-type="bulleted">
+             <item>Cross-Programs and Cross-Directorates</item>
+           </list>
+        </item>
+        <item>Interagency Programs
+           <list id="list13sub4" list-type="bulleted">
+             <item>NSF, and other government agencies 
+             </item>
+           </list>
+        </item>
+ </list>
+</section>
+<section id="slide14">
+			<title>Slide 14:  Award (Grant) Types </title>
+ <list id="list14" list-type="bulleted">
+	<item>Individual Investigator Initiated Awards </item>
+	<item>CAREER Awards</item>
+	<item>Center Awards </item>
+	<item>SBIR/STTR awards</item>
+	<item>SGER awards </item>
+	<item>Supplements </item>
+	<item>Workshops, conferences </item>
+ </list>
+</section>
+<section id="slide15">
+			<title>Slide 15:  NSF Disciplines and Structure </title>
+ <list id="list15" list-type="enumerated">
+	<item>Biological Sciences (BIO) </item>
+	<item>Computer and Information Sciences and Engineering (CISE)</item>
+	<item>Education and Human Resources (EHR)</item>
+	<item>Engineering (ENG)
+           <list id="list15sub1" list-type="bulleted">
+             <item>Biomedical Engineering Program
+             </item>
+           </list>
+        </item>
+	<item>Geosciences (GEO) </item>
+	<item>Mathematical and Physical Sciences (MPS) </item>
+	<item>Social, Behavioral And Economic Sciences (SBE)</item>
+	<item>Polar Programs </item>
+	<item>Office of Cyberinfrastructure </item>
+	<item>Office of International Science and Engineering </item>
+	<item>Office of Integrative Affairs </item>
+ </list>
+</section>
+<section id="slide16">
+	<title>Slide 16:  NSF-Wide Investment Areas (FY 06)</title>
+ <list id="list16" list-type="bulleted">
+	<item>Nanoscale Science and Engineering  </item>
+	<item>Biocomplexity in Environment</item>
+	<item>Human and Social Dynamics</item>
+	<item>Mathematical Sciences
+        </item>
+	<item>Cyberinfrastructure </item>
+ </list>
+</section>
+<section id="slide17">
+	<title>Slide 17:  NSF-Wide Investment Areas (Request for FY 07)</title>
+ <list id="list17" list-type="bulleted">
+	<item>Biocomplexity in Environment</item>
+	<item>Climate Change Science Program</item>
+	<item>Cyberinfrastructure </item>
+        <item>Human and Social Dynamics</item>
+        <item>International Polar Year</item>
+	<item>Mathematical Sciences
+        </item>
+        <item>National Nanotechnology Initiative</item>
+        <item>Networking Information Technology R and D</item>
+ </list>
+</section>
+<section id="slide18">
+	<title>Slide 18:  NSF Merit Review Criteria </title>
+ <list id="list18" list-type="bulleted">
+	<item>Criteria include:
+
+           <list id="list18sub1" list-type="bulleted">
+             <item>What is the intellectual merit and quality of the proposed activity?
+             </item>
+             <item>What are the broader impacts of the proposed activity?
+             </item>
+           </list>
+        </item>
+	
+ </list>
+</section>
+<section id="slide19">
+	<title>Slide 19:  What is the intellectual merit of the proposed activity?</title>
+ <list id="list19" list-type="bulleted">
+	<item>Potential Considerations:
+
+           <list id="list19sub1" list-type="bulleted">
+             <item>How important is the proposed activity to advancing knowledge and understanding within its own field or across different fields? 
+             </item>
+             <item>How well qualified is the proposer (individual or team) to conduct the project?  (If appropriate, the reviewer will comment on the quality of prior work.)
+             </item>
+             <item>To what extent does the proposed activity suggest and explore creative and original concepts? 
+             </item>
+             <item>How well conceived and organized is the proposed activity? 
+             </item>
+             <item>Is there sufficient access to resources? 
+             </item>
+           </list>
+        </item>
+	
+ </list>
+</section>
+<section id="slide20">
+	<title>Slide 20:  What are the broader impacts of the proposed activity?</title>
+ <list id="list20" list-type="bulleted">
+	<item>Potential Considerations:
+
+           <list id="list20sub1" list-type="bulleted">
+             <item>How well does the activity advance discovery and understanding while promoting teaching, training and learning?
+             </item>
+             <item>How well does the activity broaden the participation of underrepresented groups (e.g., gender, ethnicity, disability, geographic, etc.)? 
+             </item>
+             <item>To what extent will it enhance the infrastructure for research and education, such as facilities, instrumentation, networks and  partnerships?
+             </item>
+             <item>Will the results be disseminated broadly to enhance scientific and technological understanding? 
+             </item>
+             <item>What may be the benefits of the proposed activity to society? 
+             </item>
+           </list>
+        </item>
+	
+ </list>
+</section>
+<section id="slide21">
+	<title>Slide 21:  Tips for Successful Proposal Writing </title>
+ <list id="list21" list-type="bulleted">
+	<item>Determine if your project is relevant to the program
+
+           <list id="list21sub1" list-type="bulleted">
+             <item>Get in touch with the Program Director 
+             </item>
+             <item>Program Director:
+                <list id="list21sub2" list-type="bulleted">
+                  <item>Review Panels
+                  </item>
+                  <item>Award/decline recommendation
+                  </item>
+                  <item>Post management of the awards (progress report)
+                  </item>
+                </list>
+             </item>
+           </list>
+        </item>
+	<item>Follow the instructions posted by the agency
+
+           <list id="list21sub3" list-type="bulleted">
+             <item>Format, sections, project plan
+             </item>
+             <item>Agency’s Review Criteria (NSF Merit Review Criteria)
+             </item>
+             <item>Priority Areas for the agency
+             </item>
+           </list>
+        </item>
+	<item>Respond to a solicitation 
+
+           <list id="list21sub4" list-type="bulleted">
+             <item>Deadlines (pre-proposal, letter of intent, full proposal) 
+             </item>
+             <item>Additional review criteria and requirements
+             </item>
+           </list>
+        </item>
+	<item>Read “successful” proposals of your colleagues 
+        </item>
+	<item>Have your proposal reviewed by collaborators or colleagues before submitting   
+        </item>
+	<item>Do not submit on the day of the deadline
+        </item>
+	<item>Volunteer to serve on a review panel         
+        </item>	
+ </list>
+</section>
+<section id="slide22">
+<title>Slide 22:  How to Obtain Funding: An Assistant Professor’s Guide </title>
+<para id="RR1">Robert M. Raphael, Ph.D.</para>
+<para id="RR2">TN Law Assistant Professor</para>
+<para id="RR3">Dept. of Bioengineering</para>
+<para id="RR4">Rice University </para>
+</section>
+<section id="slide23">
+	<title>Slide 23:  Spirit of the Fighting Irish</title>
+ <figure id="LouHoltz">
+  <title>Lou Holtz</title>
+  <media id="idp6654368" alt=""><image src="../../media/LouHoltz.jpg" mime-type="image/jpeg"/></media>
+  <caption>
+    “To everyone who has ever faced adversity, whether in business, professional or personal life. I admire the person who says: Every day someone does something great.  Today that person will be me.”
+	-- Lou Holtz
+  </caption>
+</figure>
+</section>
+
+<section id="slide24">
+<title>Slide 24:  Writing Great Grants: A Three Step Recipe </title>
+ <list id="list24" list-type="enumerated">
+	<item>Choose a significant problem 
+
+           <list id="list24sub1" list-type="bulleted">
+             <item>Bonus points if not much work has been done on the problem
+             </item>
+             <item>More bonus points if you have done the important work
+             </item>
+           </list>
+        </item>
+	<item>Leave no question that you can accomplish your aims 
+
+           <list id="list24sub2" list-type="bulleted">
+             <item>Established track record of publications
+             </item>
+             <item>Clear and convincing preliminary data
+             </item>
+           </list>
+        </item>
+	<item>Write a clear, easy to read proposal
+
+           <list id="list24sub3" list-type="bulleted">
+             <item>“Calm down, understand the situation and communicate clearly” – We Were Soldiers  
+             </item>
+           </list>
+        </item>	
+ </list>
+</section>
+<section id="slide25">
+	<title>Slide 25: Big Hurdles and Pitfalls </title>
+  <list id="list25" list-type="bulleted">
+	<item>Navigating the <emphasis>Scylla</emphasis> of building on your accomplishments and the <emphasis>Charybdis</emphasis> of creating new research problems and attacking new research areas, given your situation:
+           <list id="list25sub1" list-type="bulleted">
+             <item>Laboratory techniques not yet working
+             </item>
+             <item>Students not yet trained/busy with classes
+             </item>
+             <item>Teaching and other responsibilities
+             </item>
+           </list>
+        </item>
+	<item>Proposing to do too much 
+        </item>
+	<item>Not making clear the points and connections that are obvious to you
+        </item>	
+ </list>
+</section>
+<section id="slide26">
+	<title>Slide 26: Final Do’s and Dont’s</title>
+  <list id="list26" list-type="bulleted">
+	<item>Do not necessarily assume the person who reviews your grant will be an expert in your area or know why your research is novel
+        </item>
+        <item>The response to a revised NIH grant is very important
+           <list id="list26sub1" list-type="bulleted">
+             <item>Never appear to be angry or emotional.  Just stick to the science.  If a reviewer got something wrong (which often happens), just lay out the facts. 
+             </item>
+             <item>This is hard because you have put so much effort into the grant it’s easy to take comments personally.
+             </item>
+             <item>Criticisms are of the science, not of you!
+             </item>
+           </list>
+        </item>
+	<item>Get grants done in advance and have colleagues read them ! 
+           <list id="list26sub2" list-type="bulleted">
+             <item>Resist the thrill of pulling it off on “third and long”
+             </item>            
+           </list>
+        </item>	
+ </list>
+</section>
+<section id="slide27">
+	<title>Slide 27: And Remember:</title>
+
+<figure orient="horizontal" id="slide27figure">
+  
+  <subfigure id="subfigYouCanDoIt">
+    
+    <media id="idp11668224" alt=""><image src="../../media/YouCanDoIt.jpg" mime-type="image/jpeg"/></media>
+  </subfigure>
+  <subfigure id="subfigGreatWomen">
+     
+    <media id="idm1725488" alt=""><image src="../../media/GreatWomen.jpg" mime-type="image/jpeg"/></media>
+  </subfigure>
+</figure>
+</section>
+<section id="slide28">
+	<title>Slide 28: Acknowledgements</title>
+ <figure id="RaphaelLab">
+  <title>“My mariners, Souls that have toil'd, and wrought, and thought with me”  
+  </title>
+  <media id="idp13456176" alt=""><image src="../../media/raphael_lab.jpg" mime-type="image/jpeg"/></media>
+  <caption>
+     Raphael Lab: 
+     Emily, Yong, Ryan, Jeff, Imran, Jenni, Louise (and Robert Raphael, center)
+  </caption>
+</figure>
+ 
+  <list id="list28sub1" list-type="bulleted">
+  
+	<item>Thanks for Believing in Us!
+           <list id="list28sub2" list-type="bulleted">
+             <item>NSF CAREER
+             </item>  
+             <item>Whitaker Foundation
+             </item>
+             <item>Texas Advanced Technology Program 
+             </item>
+             <item>National Organization for Hearing Research  
+             </item>
+             <item>NIH NRSA (Greeson, Organ)
+             </item>
+             <item>NSF-IGERT
+             </item> 
+             <item>Keck Center for Computational and Structural Biology
+             </item> 
+             <item>DOE Computational Science  Graduate Fellowship
+             </item>          
+           </list>
+        </item>	
+ </list>
+</section>
+<section id="slide29">
+<title>Slide 29: So you want someone else to pay for your research? </title>
+<para id="js1">Joan E. Strassmann, Ph.D. </para>
+<para id="js2">Department Chair</para>
+<para id="js3">Ecology and Evolutionary Biology</para>
+<para id="js4">Rice University</para>
+  <list id="list29" list-type="bulleted">
+  
+	<item>So you want someone else to pay for your research?
+           <list id="list29sub1" list-type="enumerated">
+             <item>Ask important, big questions.
+             </item>  
+             <item>Have several projects at once.
+             </item>
+             <item>Write clear, well-researched proposals.
+             </item>
+             <item>Collaborate. 
+             </item>
+             <item>Identify all possible funding sources and learn their cultures.
+             </item>
+             <item>Don’t let funding consume you.  Keep publishing!
+             </item>                       
+           </list>
+        </item>	
+ </list>
+</section>
+<section id="slide30">
+<title>Slide 30: Number 1 - Ask important, big questions. </title>
+  <list id="list30" list-type="bulleted">  
+	<item>Do not redo your Ph.D. or postdoc work.
+        </item>	
+	<item>Find a substantially new project if your proposal is rejected twice.
+        </item>
+	<item>Read deeply and broadly (at least 5 articles a day).
+        </item>
+	<item>Be creative.
+        </item>
+	<item>Do not be afraid to do something really different.
+        </item>
+	<item>Talk to lots of people about research.
+        </item>
+ </list>
+</section>
+<section id="slide31">
+<title>Slide 31: Number 2 - Do several projects at once. </title>
+  <list id="list31" list-type="bulleted">  
+	<item>Keeps you excited.
+        </item>	
+	<item>When one project faces problems, another could be blooming.
+        </item>
+	<item>Increases funding opportunities.
+        </item>
+	<item>Synergy in thinking about different things can suggest novel pathways.
+        </item>
+	<item>Increases your visibility.
+        </item>
+ </list>
+</section>
+<section id="slide32">
+<title>Slide 32: Number 3 - Write clear, well-researched proposals. </title>
+  <list id="list32" list-type="bulleted">  
+	<item>The proposal must be impeccable, no typos, clear headers, clear flow from hypotheses to methods.
+        </item>	
+	<item>Follow the format of the agency exactly.
+        </item>
+	<item>Include preliminary data and figures.
+        </item>
+	<item>Get sample funded proposals by asking people for them, preferably those not too close to your research.
+        </item>
+	<item>Have several people read your proposal.
+        </item>
+	<item>Leave enough time, at least 3 months.
+        </item>
+ </list>
+</section>
+<section id="slide33">
+<title>Slide 33: Number 4 - Collaborate. </title>
+  <list id="list33" list-type="bulleted">  
+	<item>New ideas often come from collaboration.
+        </item>	
+	<item>Techniques and approaches can be shared.
+        </item>
+	<item>This is the ONLY way to succeed without turning into a workaholic.
+        </item>
+	<item>Teamwork is fun!
+        </item>
+	<item>Find collaborators from a broader pool than is initially comfortable, and bridge the gaps with frequent meetings.
+        </item>
+	<item>Same-stage collaborators are often best.
+        </item>
+ </list>
+</section>
+<section id="slide34">
+<title>Slide 34: Number 5 - Identify all possible funding sources and learn their cultures. </title>
+  <list id="list34" list-type="bulleted">  
+	<item>NSF and NIH are not the only sources of funding.
+        </item>	
+	<item>Learn about those grants requiring nominations, and get them.
+        </item>
+	<item>Take advantage of your sponsored research office in learning about private funding.
+        </item>
+ </list>
+</section>
+<section id="slide35">
+<title>Slide 35: Number 6 - Keep publishing. </title>
+  <list id="list35" list-type="bulleted">  
+	<item>The search for funding can be discouraging.
+        </item>	
+	<item>Keep trying, but don’t forget to keep publishing anyway.
+        </item>
+	<item>Write up your research quickly.
+        </item>
+	<item>Write a minireview, review, perspective etc. at least every 2 years.
+        </item>
+ </list>
+</section>
+
+<section id="slide36">
+<title>Slide 36: Conclusion</title>
+<para id="conclusion">Have fun!  It’s a great life! 
+</para>
+</section>
+
+  </content>
+   <bib:file>
+   <bib:entry id="ppt">
+      <bib:misc>
+	<bib:author>Demir, S., Kavraki, L., Raphael, R., and Strassman, J. 
+        </bib:author>
+ 	<bib:title>How to Obtain Funding:  NSF Advance Workshop at Rice University
+        </bib:title>
+        <bib:month>October
+        </bib:month>
+        <bib:year>2006
+        </bib:year>
+        <bib:note> http://www.advance.rice.edu/negotiatingtheidealfacultyposition/agenda.html</bib:note>
+      </bib:misc>
+   </bib:entry>
+
+   <bib:entry id="kinney">
+      <bib:misc>
+	<bib:author>Kinney, K., Wilson, P. and Neptune, R. 
+        </bib:author>
+ 	<bib:title>EFWO Negotiating the Ideal Faculty Position Workshop Agenda: How to Find Funding
+        </bib:title>
+        <bib:month>October
+        </bib:month>
+        <bib:year>2004
+        </bib:year>
+        <bib:note> http://www.engr.utexas.edu/efwo/workshop2004.cfm </bib:note>
+      </bib:misc>
+   </bib:entry>
+
+   <bib:entry id="PWG">
+      <bib:misc>
+	<bib:author>Thackrey, D. 
+        </bib:author>
+ 	<bib:title>University of Michigan's Proposal Writer's Guide
+        </bib:title>
+        <bib:note>  http://www.research.umich.edu/proposals/pwg/pwgcomplete.html    
+        </bib:note>
+      </bib:misc>
+   </bib:entry>
+ </bib:file>
+</document>
